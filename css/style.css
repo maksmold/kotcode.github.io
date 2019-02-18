@@ -1,0 +1,35 @@
+  .list {
+    font-family:'Arial';
+    margin-bottom: inherit;
+    color:white;
+  }
+   .kot {
+     font-family:'Arial';
+     margin-bottom: inherit;
+     color:yellow;
+
+  }
+  .heading {
+    font-family:'Arial';
+    font-size:125%;
+    color:white;
+  }
+  .about {
+    font-family:'Arial';
+    margin-bottom: inherit;
+    color:white;
+  }
+  .about1 {
+    font-family:'Arial';
+    margin-bottom: inherit;
+    color:white;
+  }
+
+ body {
+   background-color:#48566d;
+ }
+ .info {
+   font-family:'Arial';
+   font-size:95%;
+   color:white;
+ }
